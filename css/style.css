@@ -50,17 +50,19 @@ footer {
   color: #FFFFFF;
 }
 
-footer p.copyright {
-  padding: 3rem 0;
-  text-align: center;
-}
-
 footer a {
   color: #FFFFFF;
   text-decoration: none;
 }
+
+footer p.copyright {
+  padding: 3rem 0;
+  color: #FFFFFF;
+  text-align: center;
+}
 /*================================CLASS===============================================*/
 .main-photo{
+  
   width: 200px;
   height: 200px;
   border: 2px solid #FFF;
@@ -80,12 +82,35 @@ footer a {
 }
 
 .Profile {
-  text-align: center;
+  text-align:center;
   margin-bottom: 40px;
 }
 
+.hero {
+  width: 60%;
+  margin: auto;
+}
+
 .logo img {
-  width: 210px;
+  width: 400px;
+}
+
+.sign-in {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.sign-in button {
+  border: none;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+  padding: 0.5rem;
+  border-radius: 5px;
+  border: 1px solid #ccc;
 }
 
 .social-links {
@@ -184,8 +209,4 @@ footer a {
 .Photos img {
   border-radius: 50%;
 }
-
-
-
-
 
