@@ -9,3 +9,6 @@
    - CSS
 
 <img src="https://github.com/Juliasil/CODE/blob/master/assets/Image/JSCODE.png?raw=true" />
+<br>
+<br>
+<p>It is a mobile responsive page</p>
