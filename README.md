@@ -9,6 +9,10 @@
    - HTML
    - CSS
 
+
+<h2>This is the page link</h2>
+<h3></h3>
+
 <img src="https://github.com/Juliasil/CODE/blob/master/assets/Image/JSCODE.png?raw=true" />
 <br>
 <br>
